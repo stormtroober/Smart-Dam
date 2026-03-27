@@ -1,4 +1,4 @@
-#Smart Dam — IoT System for River Hydrometric Monitoring and Dam Control
+# Smart Dam — IoT System for River Hydrometric Monitoring and Dam Control
 
 Smart Dam is a distributed IoT system implementing a simplified version of an intelligent platform for monitoring the hydrometric level of a river and controlling a dam. The system is composed of five main components that communicate with each other over different protocols: HTTP, serial, and Bluetooth.
 
